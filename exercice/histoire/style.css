@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+div {
+    border: 1px solid black;
+    background-color: rgb(108, 156, 158);
+}
+
+blockquote {
+    color: white;
+}
+
+#generer {
+    color: blue;
+}
